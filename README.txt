@@ -2,7 +2,6 @@ First step is to install all the python libraries below:
 cv2
 face_recognition
 numpy
-datetime
 ===================================================================
 Second step:
 Create a folder and keep all the images with good clarity
